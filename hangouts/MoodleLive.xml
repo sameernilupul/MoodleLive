@@ -12,7 +12,7 @@
       <!-- Your application code -->
       <html>
         <head>
-            <link type="text/css" rel="stylesheet" href="http://idea2013.info/iesl/hangouts/MoodleLive/hangouts/main.css" />
+            <link type="text/css" rel="stylesheet" href="http://idea2013.info/iesl/hangouts/MoodleLive/hangouts/main.css" media="screen" />
         </head>
         <body>
             <h1>Welcome to Moodle Live</h1>

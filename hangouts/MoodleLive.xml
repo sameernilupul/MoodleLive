@@ -10,14 +10,12 @@
       <script src="//plus.google.com/hangouts/_/api/v1/hangout.js"></script>
 
       <!-- Your application code -->
-      <html>
-        <head>
-            <link type="text/css" rel="stylesheet" href="http://idea2013.info/iesl/hangouts/MoodleLive/hangouts/main.css" media="screen" />
-        </head>
-        <body>
+      <link type="text/css" rel="stylesheet" href="http://idea2013.info/iesl/hangouts/MoodleLive/hangouts/main.css" media="screen" />
+      
+      <body>
             <h1>Welcome to Moodle Live</h1>
-        </body>
-      </html>
+      </body>
+     
       <!-- Your application code -->
     ]]>
     </Content>

@@ -10,7 +10,7 @@
       <script src="//plus.google.com/hangouts/_/api/v1/hangout.js"></script>
       <!-- Your application code -->
       <html>
-        <body background="resources/background.jpg">
+        <body background="./resources/background.jpg">
             <h1>Welcome to Moodle Live</h1>
         </body>
       </html>

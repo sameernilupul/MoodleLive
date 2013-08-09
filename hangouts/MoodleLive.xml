@@ -12,6 +12,7 @@
       <html>
         <body background="./resources/background.jpg">
             <h1>Welcome to Moodle Live</h1>
+            <a href="./resources/background.jpg">Image</a> 
         </body>
       </html>
       <!-- Your application code -->

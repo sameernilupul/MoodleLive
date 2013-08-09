@@ -8,9 +8,10 @@
     <Content type="html">
     <![CDATA[
       <script src="//plus.google.com/hangouts/_/api/v1/hangout.js"></script>
+      <link type="text/css" rel="stylesheet" href="http://idea2013.info/iesl/hangouts/MoodleLive/hangouts/main.css" />
       <!-- Your application code -->
       <html>
-        <body background="http://idea2013.info/iesl/hangouts/MoodleLive/hangouts/resources/background.jpg">
+        <body>
             <h1>Welcome to Moodle Live</h1>
         </body>
       </html>

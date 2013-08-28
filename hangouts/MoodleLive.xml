@@ -13,12 +13,12 @@
 <html>
 <style type="text/css">
 
-    body {
-        background-color:#cccccc;
-    }
-    h1{
-        color:#00ff00;
-    }
+body {
+    background-image:url('resources/background.jpg');
+}
+h1{
+    color:#00ff00;
+}
 
 </style>
 

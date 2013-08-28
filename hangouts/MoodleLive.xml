@@ -14,7 +14,7 @@
 <style type="text/css">
 
 body {
-    background-image:url('http://idea2013.info/iesl/hangouts/MoodleLive/hangouts/resources/background.jpg');
+    background-color: #2d89ef;
 }
 h1{
     color:#00ff00;

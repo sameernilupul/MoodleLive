@@ -15,6 +15,7 @@
 
 body {
     background-color: #2d89ef;
+    background-image:url('background.jpg');
 }
 h1{
     color:#00ff00;

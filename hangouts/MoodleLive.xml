@@ -1,22 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version="1.0" encoding="UTF-8" ?>
 <Module>
-    <ModulePrefs title="Your App Name">
-        <Require feature="rpc"/>
-        <Require feature="views"/>
-    </ModulePrefs>
-    <Content type="html">
-    <![CDATA[
-      <script src="//plus.google.com/hangouts/_/api/v1/hangout.js"></script>
+    ﻿  <ModulePrefs title="Send Message">
+        ﻿  ﻿  <Require feature="rpc" />
+        ﻿  ﻿  <Require feature="views" />
+        ﻿  ﻿  <Require feature="locked-domain" />
+        ﻿  </ModulePrefs>
+    ﻿  <Content type="html">
 
-      <!-- Your application code -->
-      <link type="text/css" rel="stylesheet" href="http://idea2013.info/iesl/hangouts/MoodleLive/hangouts/main.css" />
-      
-      <body>
-            <h1>Welcome to Moodle Live</h1>
-      </body>
-     
-      <!-- Your application code -->
-    ]]>
+
+<![CDATA[     
+
+<html>
+<style type="text/css">
+<!--
+    body {
+        background-color:#cccccc;
+    }
+
+-->
+</style>
+
+<script src="//plus.google.com/hangouts/_/api/v1/hangout.js"></script>
+
+<h1>Welcome to Moodle Live</h1>
+    
+
+<script>
+ 
+</script>
+</body>
+]]>
     </Content>
 </Module>
+

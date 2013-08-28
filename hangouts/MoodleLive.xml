@@ -12,12 +12,14 @@
 
 <html>
 <style type="text/css">
-<!--
+
     body {
         background-color:#cccccc;
     }
+    h1{
+        color:#00ff00;
+    }
 
--->
 </style>
 
 <script src="//plus.google.com/hangouts/_/api/v1/hangout.js"></script>
